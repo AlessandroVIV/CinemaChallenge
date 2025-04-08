@@ -1,0 +1,292 @@
+ /*--------HEADER--------*/
+header{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(36, 36, 36);
+  display: flex;
+  align-items: center;
+  z-index: 10;
+
+  nav {
+      width: 100%;
+
+      ul {
+          background-color: transparent;
+
+          display: flex;
+          justify-content: flex-end;
+          align-items: center;
+      }
+
+      li {
+          list-style-type: none;
+      }
+
+      li:first-child {
+          margin-right: auto;
+          /*(?)*/
+      }
+
+      a {
+          color: white;
+          text-decoration: none;
+          padding: 0 30px;
+          font-size: 1.1em;
+          font-weight: bolder;
+      }
+
+      img {
+          width: 24px;
+          height: 24px;
+      }
+
+      #sideBar {
+          background-color: rgba(36, 36, 36, 0.841);
+          backdrop-filter: blur(10px);
+          position: fixed;
+          top: 0;
+          right: 0;
+          height: 100vh;
+          width: 300px;
+          z-index: 999;
+          padding: 0;
+          margin: 0;
+
+          display: none;
+          flex-direction: column;
+          align-items: flex-start;
+          /*asse x*/
+          justify-content: flex-start;
+          /*asse Y*/
+
+      }
+
+      #sideBar li {
+          height: 60px;
+          padding: 0;
+          width: 100%;
+
+          display: flex;
+          align-items: center;
+      }
+
+      #sideBar li:hover {
+          background-color: rgb(36, 36, 36);
+      }
+  }
+
+  /*-----RESPONSIVE-----*/
+  @media(max-width: 768px) {
+      .hideOnMobile {
+          display: none;
+      }
+  }
+
+
+
+} //----FINE HEADER
+//--------FORM POST--------//
+
+#loginForm {
+  border: 2px solid rgb(36, 36, 36);
+  border-radius: 15px;
+  padding: 15px 30px 15px 15px;
+  background-color: rgb(36, 36, 36);
+  min-width: 350px;
+  line-height: 45px;
+  display: none;
+  z-index: 999;
+}
+
+@media(max-width: 425px) {
+
+  #loginForm {
+      min-width: 200px;
+      height: auto;
+  }
+
+}
+
+#loginForm input {
+  border: 1px solid rgb(65, 65, 65);
+  border-radius: 10px;
+  background-color: rgb(65, 65, 65);
+  color: white;
+  display: block;
+  width: 100%;
+  padding: 8px;
+  /*margin-bottom: 20px;*/
+}
+
+#loginForm button {
+  border: 1px solid #121920;
+  border-radius: 8px;
+  background-color: #121920;
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#loginForm button:hover {
+  background-color: white;
+  color: #121920;
+  transition: 0.5s;
+}
+
+//------REGISTER FORM-------//
+
+#registerForm {
+  border: 2px solid rgb(36, 36, 36);
+  border-radius: 15px;
+  padding: 15px 30px 15px 15px;
+  background-color: rgb(36, 36, 36);
+  min-width: 350px;
+  line-height: 45px;
+  display: none;
+  z-index: 999;
+}
+
+@media(max-width: 425px) {
+  #registerForm {
+      min-width: 200px;
+      height: auto;
+  }
+}
+
+#registerForm input {
+  border: 1px solid rgb(65, 65, 65);
+  border-radius: 10px;
+  background-color: rgb(65, 65, 65);
+  color: white;
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+#registerForm button{
+  border: 1px solid #121920;
+  border-radius: 8px;
+  background-color: #121920;
+  color: white;
+  font-size: 1.2em;
+  display: block;
+  margin: auto;
+  padding: 5px 15px 5px 15px;
+}
+
+#registerForm button:hover {
+  background-color: white;
+  color: #121920;
+  transition: 0.5s;
+}
+
+  .fila {
+    display: flex;
+  }
+
+  .posto {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-color: #ccc;
+    border-bottom-left-radius: 8px; 
+    border-bottom-right-radius: 8px;
+    cursor: pointer;
+    &:hover {
+        box-shadow: 0 0 1px 1px white;
+    }
+  }
+
+  .posto.selected {
+    background-color: #ece448;
+  }
+
+  #postiCinema {
+    padding: 10px; 
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: rgb(92, 92, 92);
+    width: fit-content;
+    margin: 0 auto;
+    z-index: 6;
+    position: relative;
+  }
+
+.bottoneInvia2{
+  cursor: pointer;
+  display: block;
+  z-index: 2;
+  position: relative;
+  margin: 20px auto;
+  font-size: 1.4em;
+  border-radius: 10px;
+  border: none;
+  width: 150px;
+  padding: 8px;
+  background-color: #263646;
+  color: white;
+  pointer-events: all;
+
+    &:hover{
+      box-shadow: 0 0 10px 1px #363d43; 
+    }
+
+    position: relative;
+}
+
+  #riepilogo {
+    max-width: 350px;
+    margin: 25px auto;
+    border: 1px solid #263646;
+    background-color: #263646;
+    font-size: 1.1em;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.nonDisponibile {
+  pointer-events: none;
+  cursor: none;
+
+  background-color: rgb(59, 49, 49);
+}
+
+@media (max-width: 768px){
+
+  .posto {
+    width: 13px;
+    height: 13px;
+    margin: 5px;
+    background-color: #ccc;
+    border-bottom-left-radius: 8px; 
+    border-bottom-right-radius: 8px;
+    cursor: pointer;
+    &:hover {
+        box-shadow: 0 0 1px 1px white;
+    }
+  }
+  
+  .posto.selected {
+    background-color: #ece448;
+  }
+
+  #postiCinema {
+    padding: 10px; 
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: rgb(92, 92, 92);
+    width: fit-content;
+    margin: 0 auto;
+    z-index: 6;
+    position: relative;
+  }
+
+}

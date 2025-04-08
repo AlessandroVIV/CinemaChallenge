@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/style.css">
+    <title>Selezione posto</title>
+    <script src="interazioni.js" defer></script>
+    <link rel="web icon" href="../data/immagini/icone/clapperboard.png">
+</head>
+
+<body>
+    <!--HEADER -->
+    <header>
+        <nav class="barra-menu">
+            <ul id="sideBar">
+                <li class="close"><a href="#"><img src="../data/immagini/icone/close-icon.png"></a></li>
+                <li><a href="#footer">Info & contact</a></li> <!--footer-->
+                <!--login form-->
+                <li class="side-accedi"><a>Login</a></li>
+                <li class="side-registrati"><a>Registrati</a></li>
+                <li class="side-logout"><a>LogOut</a></li>
+            </ul>
+            <ul>
+                <li class="icona"><a href="javascript:void(0);"><img src="../data/immagini/grandi/logoGrande.png"></a></li>
+                <li class="hide"><a href="#footer">Info & contact</a></li>
+                <!--login form-->
+                <li class="hide accedi"><a> <img src="../data/immagini/icone/login-icon.png">Login</a></li>
+                <li class="hide registrati"><a><img src="../data/immagini/icone/register-icon.png">Registrati</a></li>
+                <li class="areaPersonale"><a><img src="../data/immagini/icone/login-icon.png">Area personale</a></li>
+                <li class="hide logout"><a><img src="../data/immagini/icone/logout.png">Log out</a></li>
+                <li class="menu"><a href="#"><img src="../data/immagini/icone/menu-icon.png"></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="containerLight">
+        <div class="light" id="light"></div>
+    </div>
+
+
+    <div id="riepilogo">
+    </div>
+
+    <div id="postiCinema"></div>
+
+    <button class="bottoneInvia2">
+        Invia
+    </button>
+
+
+    <script src="selezione.js" type="module"></script>
+
+    <!------ FOOTER ------->
+    <footer id="footer">
+        <div id="info">
+
+            <ul>
+
+                <li>
+                    <h3>Contatti</h3>
+                    <ul>
+                        <li>FAQ e Contattaci</li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>La nostra regia</h3>
+                    <ul>
+                        <li>Chi siamo</li>
+                        <li>PNRR</li>
+                        <li>Lavora con noi</li>
+                        <li>I nostri cinema</li>
+                    </ul>
+                </li>
+
+                <li id="note">
+                    <h3>Note Legali</h3>
+                    <ul>
+                        <li>Privacy policy</li>
+                        <li>Cookie policy</li>
+                        <li>Condizioni di utilizzo</li>
+                        <li>Regolamenti</li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>Social</h3>
+                    <ul id="no_sotto">
+                        <li><a href="#"><img src="../data/immagini/icone/facebook.png">Facebook</a></li>
+                        <li><a href="#"><img src="../data/immagini/icone/youtube.png">Youtube</a></li>
+                        <li><a href="#"><img src="../data/immagini/icone/twitter.png">Twitter</a></li>
+                        <li><a href="#"><img src="../data/immagini/icone/instagram.png">Instagram</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>La Nostra App</h3>
+                    <ul>
+                        <li>Scopri di più</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </footer>
+</body>
+
+</html>

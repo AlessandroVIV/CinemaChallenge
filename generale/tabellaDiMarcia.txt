@@ -1,0 +1,149 @@
+Lunedi: Finiamo HOMEPAGE
+Martedi: Finiamo Accesso Registrazione
+Mercoledi: Finiamo selezione posti
+Giovedi: Finiamo pagamento e CHECKOUT
+Venerdi(fino alle 14:00): 
+
+
+Componenti del sito:
+
+HOMEPAGE:
+-Nome del cinema: LOGO da inventare
+-Sezione login, registrazione
+-Slider con film principali che vanno in successione: servono formati 3 formati diversi in base alla grandezza del sito
+-Selezione rapida di: "cinema", "film", "data", "orario"
+-Lista dei film che se si clicca su un film si vedono i dettagli del film 
+-Footer falso con copyright ecc.
+
+
+ACCESSO:
+-Popup con css che contiene solo campo "email" e "password" con il bottone per entrare
+-messaggio registrati in basso
+
+REGISTRAZIONE:
+-Popup con css che contiene: "nome", "congome", "email", "conferma email", "password", "sesso/preferisco non rispondere", "checkbox:informativa", 
+-bottone registrati
+
+SELEZIONE POSTI:
+-diagramma ABC... x 123... in base a quanti posti chiederanno, deve essere flessibile.
+-diverse categorie: Poltrone VIP, Posti Occupati, I tuoi posti, Posti non disponibili, disabili
+
+PAGAMENTO: 
+-Riepilogo posti selezionati, data, orario, Chiede se hai un voucher
+
+MESSAGGIO DI CHECKOUT:
+-Ringraziamento per il pagamento
+-messaggio di aver mandato i biglietti alla mail con cui si e' fatto il login
+-File pdf falso che in teoria contiene il biglietto
+
+
+
+Cose che ancora mancano:
+
+// Interfaccia per la collection di utenti
+interface Utente {
+  id: number;          // Unique identifier
+  nome: string;        // Name
+  email: string;       // Email address
+  telefono: string;    // Phone number
+  dataRegistrazione: Date; // Registration date
+}
+
+// Interfaccia per la collection di film
+interface Film {
+  id: number;          // Unique identifier
+  titolo: string;      // Title
+  descrizione: string; // Description
+  durata: number;      // Duration in minutes
+  genere: string;      // Genre
+  dataUscita: Date;    // Release date
+  lingua: string;      // Language
+}
+
+interfaccia per la collection di prenotazioni
+interface Prenotazione {
+  id: number;              // Unique identifier
+  idUtente: number;        // User ID
+  idFilm: number;          // Movie ID
+  dataPrenotazione: Date;  // Reservation date
+  numeroPosti: number;     // Number of seats
+  stato: string;           // Reservation status (e.g., "confirmed", "pending")
+}
+
+
+
+Login, Registrazione: 
+Registrazione e login devono essere gestiti con l'estensione per autenticazioni di json-server (json-server-auth)
+Bisogna aggiungere una dashboard personale in cui l'utente puo' vedere i film che ha prenotato
+Bisogna anche aggiungere tutte le regex per la registrazione e per il pagamento
+
+
+
+Ogni utente deve poter prenotare un numero illimatato di film;
+Non si possono prenotare gli stessi posti di una stessa sala allo stesso tempo;
+Quindi quando un posto viene prenotato questo diventa non disponibile per altri utenti
+
+
+Gestione del pagamento:
+Ogni biglietto standard costa 8.99 euro
+Ogni utente deve poter pagare con carta o con paypal
+
+
+
+BONUS:
+Esistono dei posti premium che costano un po di piu
+
+
+Compiti che rimangono:
+
+Adeno: 
+Gestione dello stile di Login e Registrazione che devono essere dei popup, tutto responsive
+Aggiungere il menu a ogni pagina
+Trovare delle regex per i dati di registrazione speficificati nell'interfe dell'utente
+
+Aledio:
+Gestione del footer responsive
+Gestire il json: aggiungere dati ulteriori dei film speficificati nella interface 
+
+James:
+Gestione della manipolazione delle collection di dati
+Aggiungere un popup per ogni singolo film
+
+
+
+
+Allora ragionamento.
+
+Utente entra e si registra e poi fa il login. Questo utente viene aggiunto alla lista degli utenti.
+In quanto utente ha la proprieta' 'prenotazioniUtente' che contiene tutte le sue prenotazioni
+Ognuna di queste prenotazioni continene:
+-film prenotato,
+-data della prenotazione,
+-orario della prenotazione,
+-sala della prenotazione
+
+
+
+Quando l'utente fa una prenotazione dalla selezione rapida i vari campi si devono riempire dinamicamente a seconda del film che si e' scelto.
+Con la proprieta' del film tramite una chimata get e' possibile caricare poi le date e gli orari disponibili oltre che alle sale
+
+Una volta fatto questo si viene reindirizzati alla selezioni dei posti. Qui i posti vengono caricati facendo una chiamata get all'endpoint delle prenotazioni "totali".
+Questo endpoint contiene tutti i posti disponibili. Purtroppo c'e' una sola sala in questo cinema.
+
+
+In questo cinema vengono riprodotti tre film ogni giorno.
+sono gli stessi film per tre giorni poi cambiano
+Quindi ci sono 10 date a partire dal primo Novembre
+Vengono riprodotti tre film. Uno alle 14.00 uno alle 17.00 e uno alle 20.00
+
+Quindi ogni film contiene una proprieta' queste proprieta che servono per capire quando e quali posti sono disponibili:
+Orario: tre orari
+Data: tre date
+Posti: 136 posti 
+
+Quando si fa la selezione rapida poi si prendono i dati che si sono immessi
+
+Si fa il redirect su selezione.html in selezione html ci deve essere un modo per accedere ai posti gia' occupati
+
+
+Allora fare che i posti gia prenotati hanno classe nonDisponibile

@@ -1,0 +1,103 @@
+#pagamento{
+    margin: 50px auto;
+    max-width: 300px;
+    height: 400px;
+    border: 2px solid #263646;
+    background-color: #263646;
+    color: white;
+    border-radius: 10px;
+    padding: 15px 32px 0 15px;
+    font-size: 1.1em;
+}
+
+#pagamento form input{
+    background-color: rgb(76, 76, 93);
+    color: white;
+    border: 1px solid #263646;
+    border-radius: 15px;
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 20px 0;
+}
+
+#pagamento button{
+    background-color: rgb(76, 76, 93);
+    border: 1px solid rgb(76, 76, 93);
+    color: white;
+    border-radius: 15px;
+    padding: 3px 15px 5px 15px;
+    display: block;
+    margin: 15px auto;
+    font-size: 1.2em;
+    max-width: 200px;
+    cursor: pointer;
+}
+
+#pagamento button:hover{
+    border: 1px solid #121920;
+    background-color: #121920;
+    transition: 0.5s;
+}
+
+#riepilogoFinale{
+    border: 2px solid white;
+}
+
+.titolo{
+    font-size: 1.2em;
+    color: white;
+}
+
+/*-----IMMAGINI COMPRESE NEL LABEL-----*/
+
+.propretarioCarta{
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.propetarioCarta img{
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.numeroCarta{
+    display: flex;
+    align-items: center;
+}
+
+.numeroCarta img{
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.dataScadenza{
+    display: flex;
+    align-items: center;
+}
+
+.dataScadenza img{
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.cvv{
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.cvv img{
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.errore{
+    border: solid 1px red;
+    background-color: rgb(210, 133, 133);
+}

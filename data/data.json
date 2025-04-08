@@ -1,0 +1,3852 @@
+{
+  "film": [
+    {
+      "id": "1",
+      "titolo": "Il gladiatore",
+      "copertina": "https://i.ebayimg.com/images/g/epsAAOSwDjdka0YZ/s-l1600.webp",
+      "descrizione": "Il Gladiatore (2000), diretto da Ridley Scott, racconta la storia di Massimo Decimo Meridio, un generale romano tradito e ridotto in schiavitù. Dopo la morte della sua famiglia per mano dell'imperatore Commodo, Massimo diventa un gladiatore e cerca vendetta.",
+      "durata": 0,
+      "genere": "Azione",
+      "dataUscita": "1970-01-01",
+      "lingua": "italiano",
+      "imgDettaglio": "https://static.screenweek.it/wp-content/uploads/2024/04/29/Gladiatore-Cover.jpg",
+      "rating": 5,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-01",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "1",
+                  "posto": "A"
+                },
+                {
+                  "fila": "1",
+                  "posto": "B"
+                },
+                {
+                  "fila": "1",
+                  "posto": "C"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-02",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": []
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-03",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "titolo": "Il padrino",
+      "copertina": "https://i.ebayimg.com/00/s/MTUwMFgxMDAw/z/uFQAAOSwU7liLGht/$_57.JPG?set_id=8800005007",
+      "descrizione": "'I'm gonna make him an offer he can't refuse' (Gli farò un'offerta che non potrà rifiutare): Questa frase è pronunciata da Don Vito Corleone, il capo della famiglia mafiosa, ed è una delle più iconiche del film. Esprime l'approccio potente e implacabile di Corleone: una proposta che, pur sembrando una negoziazione, in realtà è una minaccia mascherata, facendo capire che chi la riceve non ha altra scelta se non accettarla.",
+      "durata": 0,
+      "genere": "Drammatico",
+      "dataUscita": "1970-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/02/The-Godfather-04-1316x640-1.jpeg",
+      "rating": 2,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-01",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": []
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-02",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-03",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "titolo": "Il cavaliere oscuro",
+      "copertina": "https://i.ebayimg.com/00/s/MTUwMFgxMDEz/z/9gAAAOSwKP5iGL~B/$_57.JPG?set_id=8800005007",
+      "descrizione": "Il Cavaliere Oscuro (2008), diretto da Christopher Nolan, è il secondo film della trilogia di Batman. In questo capitolo, Batman (Christian Bale) affronta il Joker (Heath Ledger), un criminale anarchico che minaccia di distruggere Gotham City. Il film esplora temi di moralità, caos e giustizia, mettendo Batman di fronte a dilemmi etici complessi.",
+      "durata": 0,
+      "genere": "Azione",
+      "dataUscita": "1970-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://upload.wikimedia.org/wikipedia/it/3/3d/The_Dark_Knight_-_Trailer_3.jpg",
+      "rating": 4,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-01",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-02",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-03",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "titolo": "Pulp Fiction",
+      "copertina": "https://static.posters.cz/image/750/1288.jpg",
+      "descrizione": "Pulp Fiction (1994), diretto da Quentin Tarantino, è un film che intreccia diverse storie criminali a Los Angeles. Le vicende ruotano attorno a personaggi come Vincent Vega (John Travolta) e Jules Winnfield (Samuel L. Jackson), due hitman coinvolti in situazioni assurde, un pugile in fuga e una coppia di rapinatori. Il film è noto per il suo stile non lineare, i dialoghi brillanti e l'uso del nero umorismo.",
+      "durata": 0,
+      "genere": "Thriller",
+      "dataUscita": "1994-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.radiocinema.it/wp-content/uploads/2014/04/pulp-fiction_00423206.jpg",
+      "rating": 3,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-04",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-05",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-06",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "titolo": "Forrest Gump",
+      "copertina": "https://mr.comingsoon.it/imgdb/locandine/big/35068.jpg",
+      "descrizione": "Forrest Gump (1994), diretto da Robert Zemeckis, racconta la storia di Forrest Gump (Tom Hanks), un uomo semplice con un quoziente intellettivo basso, ma con una vita straordinaria. Attraverso una serie di eventi storici significativi, Forrest diventa testimone e protagonista di momenti cruciali della storia americana, dalla guerra del Vietnam alla rivoluzione culturale degli anni '60, senza mai rendersi conto della sua grandezza.",
+      "durata": 0,
+      "genere": "Commedia",
+      "dataUscita": "1994-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.hollywoodreporter.com/wp-content/uploads/2016/07/forrest_gump_still.jpg",
+      "rating": 5,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-04",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-05",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-06",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "titolo": "Inception",
+      "copertina": "https://i.pinimg.com/736x/c0/43/3e/c0433ecef6263b6a535db93bcf7824c9.jpg",
+      "descrizione": "Inception (2010), diretto da Christopher Nolan, è un thriller di fantascienza che esplora il concetto di sogni dentro i sogni. Dom Cobb (Leonardo DiCaprio) è un ladro esperto nel rubare segreti dal subconscio delle persone mentre sognano. Invece di rubare un'idea, viene ingaggiato per impiantare un'idea nella mente di un altro individuo, un processo chiamato 'inception'.",
+      "durata": 0,
+      "genere": "Fantascienza",
+      "dataUscita": "2010-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://pad.mymovies.it/filmclub/2009/03/027/cover1000.jpg",
+      "rating": 2,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-04",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-05",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-06",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "titolo": "Matrix",
+      "copertina": "https://c8.alamy.com/compit/2jh2n9a/pantoliano-fishburne-reeves-poster-la-matrice-1999-2jh2n9a.jpg",
+      "descrizione": "The Matrix (1999), diretto da Lana e Lilly Wachowski, è un film di fantascienza che segue Neo (Keanu Reeves), un hacker che scopre che la realtà in cui vive è in realtà una simulazione creata dalle macchine per controllare l'umanità. Con l'aiuto di Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Neo intraprende un viaggio per liberarsi dalla Matrix e scoprire il suo ruolo nella lotta contro le macchine.",
+      "durata": 0,
+      "genere": "Fantascienza",
+      "dataUscita": "1999-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://consigli.b-cdn.net/cdn/imgarticoli/matrix.jpg?width=1200",
+      "rating": 1,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-07",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-08",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-09",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "titolo": "Titanic",
+      "copertina": "https://i.ebayimg.com/00/s/MTUwMFgxMDA3/z/ejMAAOSwo3diLgD-/$_57.JPG?set_id=8800005007",
+      "descrizione": "*Titanic* (1997), diretto da James Cameron, è un dramma romantico che racconta la storia d'amore tra Jack (Leonardo DiCaprio) e Rose (Kate Winslet), due giovani di classi sociali diverse, che si incontrano a bordo del famoso transatlantico RMS Titanic durante il suo viaggio inaugurale nel 1912. Mentre la nave affonda dopo una collisione con un iceberg, la loro relazione cresce, affrontando sfide e sacrifici.",
+      "durata": 0,
+      "genere": "Romantico",
+      "dataUscita": "1997-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://upload.wikimedia.org/wikipedia/it/5/53/TitanicFilm.jpg",
+      "rating": 4,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-07",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-08",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-09",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "titolo": "Fight Club",
+      "copertina": "https://m.media-amazon.com/images/I/617iPqFrQYL._AC_UF1000,1000_QL80_.jpg",
+      "descrizione": "Fight Club (1999), diretto da David Fincher, è un film basato sul romanzo di Chuck Palahniuk. Racconta la storia di un uomo senza nome (Edward Norton), un impiegato insoddisfatto della sua vita, che crea un club segreto dove uomini frustrati si sfidano fisicamente. La sua vita prende una svolta quando incontra Tyler Durden (Brad Pitt), un carismatico e anarchico individuo che spinge il protagonista verso un viaggio di autodistruzione e ribellione contro il consumismo e la società moderna.",
+      "durata": 0,
+      "genere": "Thriller",
+      "dataUscita": "1999-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://cdn.theasc.com/Fight-Club.jpg",
+      "rating": 5,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-10",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-11",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-12",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "titolo": "Il signore degli anelli: La compagnia dell'anello",
+      "copertina": "https://m.media-amazon.com/images/I/81EBp0vOZZL.jpg",
+      "descrizione": "Il Signore degli Anelli: La Compagnia dell'Anello (2001), diretto da Peter Jackson, è il primo capitolo della trilogia epica basata sui romanzi di J.R.R. Tolkien. Il film segue Frodo Baggins (Elijah Wood), un giovane hobbit che riceve un anello magico e pericoloso, l'Unico Anello, che deve essere distrutto per evitare che il malvagio Sauron domini il mondo.",
+      "durata": 0,
+      "genere": "Fantasy",
+      "dataUscita": "2001-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://movieplayer.net-cdn.it/t/images/2020/04/27/il-signore-degli-anelli-la-compagnia-dellanello-sean-bean_jpg_1200x0_crop_q85.jpg",
+      "rating": 4,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-10",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-11",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-12",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "titolo": "Star Wars: Una nuova speranza",
+      "copertina": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijG8uNYsXa92f8sXIKREH1DYi92dWeMJscuZ_ykNg5rQUpfDNUZ4yAoGpUWA0Bfk31X4Rwsuz9rJv9BJYvNFV5lJACDnVrBh8OCxt07Pib_OaV1ViudeezDmaW4FgNfUEEYhPKh4221V8/s1600/star-wars-force-awakens-official-poster.jpg",
+      "descrizione": "Star Wars: Una Nuova Speranza (1977), diretto da George Lucas, è il primo film della leggendaria saga di Star Wars. La storia segue Luke Skywalker (Mark Hamill), un giovane contadino che, insieme a una banda di ribelli, intraprende una missione per distruggere la temibile Morte Nera, una stazione spaziale costruita dall'Impero Galattico.",
+      "durata": 0,
+      "genere": "Fantascienza",
+      "dataUscita": "1977-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.today.it/~shared/images/tv/locandine/star-wars-una-nuova-speranza-3tle.jpg",
+      "rating": 3,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-10",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-11",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-12",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "titolo": "Avengers: Endgame",
+      "copertina": "https://m.media-amazon.com/images/I/718Z0NkO0fL.jpg",
+      "descrizione": "Avengers: Endgame (2019), diretto da Anthony e Joe Russo, è il capitolo conclusivo della saga dei Vendicatori nel Marvel Cinematic Universe. Dopo gli eventi di Avengers: Infinity War, in cui Thanos (Josh Brolin) ha distrutto metà della vita nell'universo, i supereroi sopravvissuti, tra cui Iron Man (Robert Downey Jr.), Capitano America (Chris Evans) e Thor (Chris Hemsworth), si uniscono per cercare di ripristinare l'ordine e fermare Thanos.",
+      "durata": 0,
+      "genere": "Azione",
+      "dataUscita": "2019-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://movieplayer.net-cdn.it/t/images/2023/10/16/avengers_portale_jpg_1600x900_crop_q85.jpg",
+      "rating": 2,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-10",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-11",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-12",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "titolo": "Joker",
+      "copertina": "https://static2.iodonna.it/wp-content/uploads/2019/10/Joker_poster-fanart20191003_1579-1.jpg?v=1280089",
+      "descrizione": "Joker (2019), diretto da Todd Phillips, è un film che esplora le origini di Arthur Fleck (Joaquin Phoenix), un uomo emarginato e mentalmente instabile che vive a Gotham City. Lavorando come clown e lottando con il rifiuto sociale e la povertà, Arthur attraversa una trasformazione che lo porta a diventare il famoso e spietato criminale, il Joker.",
+      "durata": 0,
+      "genere": "Drammatico",
+      "dataUscita": "2019-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://cdn.prod.website-files.com/6340630bc206e31341770199/66fd61da22bd4f929842da98_joker_11zon.webp",
+      "rating": 1,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-13",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-14",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-15",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "titolo": "La vita è bella",
+      "copertina": "https://c8.alamy.com/compit/e5n1hw/la-vita-e-bella-aka-la-vita-e-bella-us-locandina-da-sinistra-roberto-benigni-giorgio-cantarini-nicoletta-braschi-e5n1hw.jpg",
+      "descrizione": "La vita è bella (1997), diretto e interpretato da Roberto Benigni, è un dramma commovente che racconta la storia di Guido Orefice, un uomo ebreo italiano che, durante la Seconda Guerra Mondiale, cerca di proteggere suo figlio Giosué (Giovanni Bruschetta) dagli orrori di un campo di concentramento.",
+      "durata": 0,
+      "genere": "Drammatico",
+      "dataUscita": "1997-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMQq6-jJEnV_BzJehDcrp71mFfSo_ZEqnjA&s",
+      "rating": 1,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-13",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-14",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-15",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "titolo": "Il buono, il brutto, il cattivo",
+      "copertina": "https://m.media-amazon.com/images/I/61fPbNv2eKL._AC_UF1000,1000_QL80_.jpg",
+      "descrizione": "Il buono, il brutto e il cattivo (1966), diretto da Sergio Leone, è uno dei più celebri film western, noto per il suo stile epico e per la colonna sonora di Ennio Morricone. La storia segue tre uomini alla ricerca di un tesoro nascosto durante la Guerra Civile Americana: Blondie (Clint Eastwood), il 'buono' cacciatore di taglie; Angel Eyes (Lee Van Cleef), il 'cattivo' mercenario; e Tuco (Eli Wallach), il 'brutto' bandito. I tre uomini si inseguono, si alleano e si tradiscono mentre lottano per mettere le mani su un forziere pieno d'oro.",
+      "durata": 0,
+      "genere": "Western",
+      "dataUscita": "1966-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.sorrisi.com/wp-content/uploads/2020/08/Il-Buono-Il-Brutto-Il-Cattivo-5.jpg",
+      "rating": 4,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-13",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-14",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-15",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "titolo": "Schindler's List",
+      "copertina": "https://m.media-amazon.com/images/I/718Rs1GPptL._AC_UF1000,1000_QL80_.jpg",
+      "descrizione": "Schindler's List (1993), diretto da Steven Spielberg, è un dramma storico che racconta la vera storia di Oskar Schindler (Liam Neeson), un industriale tedesco che salvò più di mille ebrei polacchi durante l'Olocausto. Inizialmente motivato dal profitto, Schindler si trasforma in un eroe altruista, utilizzando la sua fabbrica come rifugio per proteggere i lavoratori ebrei dai nazisti.",
+      "durata": 0,
+      "genere": "Drammatico",
+      "dataUscita": "1993-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.ucicinemas.it/media/movie/slider/schindlers-list-25th-anniversary/3_mVcBWVR.jpg",
+      "rating": 5,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-16",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-17",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-18",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "titolo": "C'era una volta in America",
+      "copertina": "https://i.ebayimg.com/images/g/OJwAAOSwtehlp2HR/s-l1200.jpg",
+      "descrizione": "C'era una volta in America (1984), diretto da Sergio Leone, è un epico film di gangster che racconta la storia di Noodles (Robert De Niro) e dei suoi amici, un gruppo di ebrei immigrati che crescono a New York durante il periodo del proibizionismo. Il film segue la loro ascesa e caduta nel crimine organizzato, esplorando temi di amicizia, tradimento, vendetta e il rimorso.",
+      "durata": 0,
+      "genere": "Drammatico",
+      "dataUscita": "1984-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://upload.wikimedia.org/wikipedia/it/5/5a/C%27era_una_volta_in_America.jpg",
+      "rating": 3,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-16",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-17",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-18",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "titolo": "Interstellar",
+      "copertina": "https://m.media-amazon.com/images/I/91obuWzA3XL.jpg",
+      "descrizione": "Interstellar (2014), diretto da Christopher Nolan, è un film di fantascienza che esplora il tema della sopravvivenza dell'umanità. In un futuro prossimo, la Terra è in declino a causa di catastrofi ambientali, e un gruppo di astronauti, guidato da Cooper (Matthew McConaughey), intraprende un viaggio attraverso un wormhole alla ricerca di un nuovo pianeta abitabile. Il film esplora concetti scientifici complessi come la relatività, il tempo e la gravità, mentre i protagonisti affrontano dilemmi emotivi e morali.",
+      "durata": 0,
+      "genere": "Fantascienza",
+      "dataUscita": "2014-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.fatherswatches.com/wp-content/uploads/2024/10/Fathers-LOrologio-di-Interstellar-Il-Segnatempo-Iconico-di-Cooper-e-Murph-5.jpg",
+      "rating": 2,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-16",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "4",
+                  "posto": "I"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-17",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-18",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "titolo": "Shutter Island",
+      "copertina": "https://pad.mymovies.it/filmclub/2009/03/099/locandina.jpg",
+      "descrizione": "Shutter Island (2010), diretto da Martin Scorsese, è un thriller psicologico ambientato nel 1954. Il film segue Teddy Daniels (Leonardo DiCaprio), un maresciallo degli Stati Uniti, che viene inviato su un'isola remota per indagare sulla misteriosa scomparsa di una paziente in un ospedale psichiatrico. Mentre esplora l'isola, Teddy scopre segreti inquietanti e inizia a mettere in dubbio la sua stessa sanità mentale.",
+      "durata": 0,
+      "genere": "Thriller",
+      "dataUscita": "2010-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://movies-b26f.kxcdn.com/wp-content/uploads/2019/11/shutter-island-1200-1200-675-675-crop-000000.jpg",
+      "rating": 4,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-19",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-20",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-21",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "titolo": "Se7en",
+      "copertina": "https://pad.mymovies.it/filmclub/2006/08/218/locandina.jpg",
+      "descrizione": "Seven (1995), diretto da David Fincher, è un thriller psicologico che segue due detective, Somerset (Morgan Freeman) e Mills (Brad Pitt), mentre indagano su una serie di omicidi ispirati ai sette peccati capitali. Ogni omicidio è meticolosamente pianificato per riflettere uno dei peccati, come l'ira, l'invidia e la lussuria. Il film esplora temi oscuri di giustizia, vendetta e la moralità umana, creando un'atmosfera inquietante e crescente tensione.",
+      "durata": 0,
+      "genere": "Thriller",
+      "dataUscita": "1995-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://medicinaonline.co/wp-content/uploads/2017/01/medicina-online-dott-emilio-alessio-loiacono-medico-chirurgo-roma-seven-1995-film-trama-recensione-riabilitazione-nutrizionista-infrarossi-accompagno-commissioni-cavitazione-radiofrequen.jpg",
+      "rating": 5,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-19",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-20",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-21",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "titolo": "Il re leone",
+      "copertina": "https://www.acectoscana.it/wp-content/uploads/2012/11/re_leone.jpg",
+      "descrizione": "Il Re Leone (1994), diretto da Roger Allers e Rob Minkoff, è un film d'animazione Disney che racconta la storia di Simba, un giovane leone destinato a diventare re della Savana. Dopo la morte del padre Mufasa, causata dal tradimento dello zio Scar, Simba scappa via, lontano dal suo regno. Anni dopo, con l'aiuto degli amici Timon e Pumbaa, Simba affronta il suo passato e torna a reclamare il trono.",
+      "durata": 0,
+      "genere": "Animazione",
+      "dataUscita": "1994-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FC45081722BACB45FEEF4C2118B34D682DE8EC1826A0E084B66B5397792A4F0/scale?width=1200&aspectRatio=1.78&format=webp",
+      "rating": 1,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-19",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-20",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-21",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "titolo": "Harry Potter e la pietra filosofale",
+      "copertina": "https://static.posters.cz/image/1300/poster/harry-potter-la-pietra-filosofale-i104639.jpg",
+      "descrizione": "Harry Potter e la Pietra Filosofale (2001), diretto da Chris Columbus, è il primo film della saga di Harry Potter, tratto dal romanzo di J.K. Rowling. La storia segue Harry Potter (Daniel Radcliffe), un ragazzo orfano che scopre di essere un mago e viene ammesso alla scuola di magia di Hogwarts. Lì, fa nuove amicizie e scopre che il suo destino è legato a Lord Voldemort, il mago oscuro che ha ucciso i suoi genitori.",
+      "durata": 0,
+      "genere": "Fantasy",
+      "dataUscita": "2001-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.npcmagazine.it/wp-content/uploads/2020/11/TEMPLATE-IMMAGINE-COPERTINA-ARTICOLI-1-5.png",
+      "rating": 2,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-22",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-23",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-24",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "data": "2025-11-24",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "1",
+                  "posto": "A"
+                },
+                {
+                  "fila": "1",
+                  "posto": "B"
+                },
+                {
+                  "fila": "1",
+                  "posto": "C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "titolo": "Il pianista",
+      "copertina": "https://pad.mymovies.it/filmclub/2002/05/034/locandina.jpg",
+      "descrizione": "Il Pianista (2002), diretto da Roman Polanski, è un dramma biografico che racconta la vera storia di Władysław Szpilman (interpretato da Adrien Brody), un pianista ebreo polacco che sopravvive all'occupazione nazista di Varsavia durante la Seconda Guerra Mondiale. Il film segue Szpilman mentre affronta la perdita della sua famiglia, la brutalità del regime e la lotta per la sopravvivenza in un ghetto devastato.",
+      "durata": 0,
+      "genere": "Drammatico",
+      "dataUscita": "2002-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.romacinemafest.it/wp-content/uploads/2023/07/The-Pianist.jpg",
+      "rating": 3,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-22",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-23",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-24",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "titolo": "Django Unchained",
+      "copertina": "https://m.media-amazon.com/images/I/81sfuF1VbaL._AC_UF1000,1000_QL80_.jpg",
+      "descrizione": "Django Unchained (2012), diretto da Quentin Tarantino, è un western che segue la storia di Django (Jamie Foxx), uno schiavo liberato che si allea con il cacciatore di taglie tedesco Dr. King Schultz (Christoph Waltz). Insieme, intraprendono un viaggio per liberare la moglie di Django, Broomhilda (Kerry Washington), che è sotto il controllo di un crudele proprietario terriero, Calvin Candie (Leonardo DiCaprio).",
+      "durata": 0,
+      "genere": "Western",
+      "dataUscita": "2012-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://i.pinimg.com/originals/8b/51/63/8b51638f8147ec122bf4fdf4bc34531a.jpg",
+      "rating": 5,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-22",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-23",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-24",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "titolo": "Spy Family: Code White",
+      "copertina": "https://i.namu.wiki/i/2j1xCdM0aQActr1OaeQx0Oei55PL_lf0RiYW20YEh7ovWDwyKQ6v-T8rvd61DLE-_lpC36SyOiLxM5_MA8gwQg.webp",
+      "descrizione": "Spy x Family: Code White è un film d'animazione che segue i Forger in una nuova missione per salvare la pace globale, tra azione, risate e legami familiari.",
+      "durata": 0,
+      "genere": "Animazione",
+      "dataUscita": "2010-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://static.bandainamcoent.eu/high/spyxfamily/spyxanya-operation-memories/01-news/movie-crunchyroll-collab/spyxfamily-movie-thumbnail.jpg",
+      "rating": 4,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-25",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-26",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-27",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "titolo": "Blade Runner 2049",
+      "copertina": "https://pad.mymovies.it/cinemanews/2017/144312/locandina-ver.jpg",
+      "descrizione": "Blade Runner 2049 (2017), diretto da Denis Villeneuve, è il sequel del cult Blade Runner del 1982. Ambientato 30 anni dopo gli eventi del primo film, segue K (Ryan Gosling), un 'blade runner' incaricato di cacciare e ritirare i replicanti, esseri artificiali creati per servire l'umanità. K scopre un segreto che potrebbe minacciare l'intero ordine sociale, e la sua indagine lo porta a cercare il misterioso Rick Deckard (Harrison Ford), un ex blade runner scomparso.",
+      "durata": 0,
+      "genere": "Fantascienza",
+      "dataUscita": "2017-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://lordofchaos.it/wp-content/uploads/2017/10/blade-runner-ologram.jpg",
+      "rating": 2,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-25",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-26",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-27",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "titolo": "Parasite",
+      "copertina": "https://pad.mymovies.it/cinemanews/2019/163062/locandina-ver.jpg",
+      "descrizione": "Parasite (2019), diretto da Bong Joon-ho, è un film satirico e drammatico che esplora le disuguaglianze sociali in Corea del Sud. La storia segue la famiglia Kim, che vive in povertà, e come i suoi membri riescono a infiltrarsi nella vita di una ricca famiglia, i Park, ottenendo lavori come tutor, governante e domestico. Man mano che le due famiglie interagiscono, emergono segreti e tensioni, portando a una serie di eventi drammatici e imprevisti. ",
+      "durata": 0,
+      "genere": "Drammatico",
+      "dataUscita": "2019-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://cultura-coreana.it/wp-content/uploads/2020/10/Parasite-header.jpg",
+      "rating": 4,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-25",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-26",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-27",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "titolo": "La forma dell'acqua",
+      "copertina": "https://www.circuitocinema.com/wp-content/uploads/2018/02/885dabdc79a1e472ae30e8f7cb949b81_500x735.jpg",
+      "descrizione": "La forma dell'acqua (2017), diretto da Guillermo del Toro, è un film fantasy romantico ambientato negli anni '60 durante la Guerra Fredda. La storia segue Elisa (Sally Hawkins), una donna muta che lavora come custode in un laboratorio governativo segreto. Quando scopre una misteriosa creatura anfibia prigioniera, Elisa sviluppa un legame profondo con essa, cercando di proteggerla da chi vuole sfruttarla.",
+      "durata": 0,
+      "genere": "Fantasy",
+      "dataUscita": "2017-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://www.radiocastelluccio.com/wp-content/uploads/2020/01/The-Shape-of-Water-Poster-Cropped.jpg",
+      "rating": 5,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-28",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-29",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-30",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "titolo": "The Irishman",
+      "copertina": "https://pad.mymovies.it/filmclub/2017/05/100/locandina.jpg",
+      "descrizione": "The Irishman (2019), diretto da Martin Scorsese, è un epico film di gangster basato sul libro I Heard You Paint Houses di Charles Brandt. Racconta la storia di Frank Sheeran (Robert De Niro), un autista di camion che diventa un sicario per il boss mafioso Russell Bufalino (Joe Pesci) e per il sindacalista Jimmy Hoffa (Al Pacino).",
+      "durata": 0,
+      "genere": "Drammatico",
+      "dataUscita": "2019-01-01",
+      "lingua": "Italiano",
+      "imgDettaglio": "https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRho_MT4PZZhYBy6Sy2mNby3RCBhalfGNoJvm4L5NXxxeN8bhVW58C76YHwwxYtN_kwhPRvvpJ0P0FQGhL8qBAvmwO2m7IutaAr-.jpg?r=189",
+      "rating": 1,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-28",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-29",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-30",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "titolo": "Mad Max: Fury Road",
+      "copertina": "https://i.ebayimg.com/images/g/5DYAAOSwtQZbkkY5/s-l1200.jpg",
+      "descrizione": "",
+      "durata": 0,
+      "genere": "Azione",
+      "dataUscita": "2015-01-01",
+      "lingua": "",
+      "imgDettaglio": "",
+      "rating": 5,
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-28",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-29",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-30",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "e4aa",
+      "nome": "James russel",
+      "cognome": "Precilla",
+      "numero": "3295445933",
+      "email": "j.r.precilla365@gmail.com",
+      "password": "123",
+      "dateVisione": [
+        {
+          "id": "1",
+          "data": "2025-11-01",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "1",
+                  "posto": "A"
+                },
+                {
+                  "fila": "1",
+                  "posto": "B"
+                },
+                {
+                  "fila": "1",
+                  "posto": "C"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "data": "2025-11-02",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": []
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "data": "2025-11-03",
+          "orariVisione": [
+            {
+              "id": "1",
+              "orario": "14:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "orario": "17:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "orario": "21:00",
+              "postiPrenotati": [
+                {
+                  "fila": "",
+                  "posto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8da",
+      "nome": "James russel",
+      "cognome": "Precilla",
+      "numero": "123",
+      "email": "j.r.precilla365@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "dada",
+      "nome": "James russel",
+      "cognome": "Precilla",
+      "numero": "123",
+      "email": "j.r.precilla365@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "doda",
+      "nome": "James russel",
+      "cognome": "Precilla",
+      "numero": "123",
+      "email": "j.r.precilla365@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "c8d4",
+      "nome": "James russel",
+      "cognome": "Precilla",
+      "numero": "3295445933",
+      "email": "j.r.precilla365@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "9047",
+      "nome": "James russel",
+      "cognome": "Precilla",
+      "numero": "3295445933",
+      "email": "j.r.precilla365@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3531",
+      "nome": "James russel123",
+      "cognome": "Precilla123",
+      "numero": "123",
+      "email": "j.r.precilla365@gmail.com123",
+      "password": "123"
+    }
+  ]
+}

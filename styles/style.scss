@@ -1,0 +1,16 @@
+body {
+    box-sizing: border-box;
+    margin: 0; 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    overflow-x: hidden
+}
+
+@import "_home.scss";
+@import "_pagamento.scss";
+@import "_selezione.scss";
+@import "_ringraziamenti.scss";
+@import "_dashboard.scss"
+
+

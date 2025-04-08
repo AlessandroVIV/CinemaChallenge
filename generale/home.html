@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinema</title>
+    <link rel="stylesheet" href="../styles/style.css">
+    <script src="home.js" type="module" defer></script>
+    <script src="interazioni.js" defer></script>
+    <link rel="web icon" href="../data/immagini/icone/clapperboard.png">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script defer src="register.js" type="module"></script>
+</head>
+
+<body>
+
+    <div class="containerLight">
+        <div class="light" id="light"></div>
+    </div>
+
+    <!--AGGIUNTO TAG HEADER-->
+    <header>
+        <nav class="barra-menu">
+            <!-----SEARCH BAR------->
+            <ul id="sideBar">
+                <li class="close"><a href="#"><img src="../data/immagini/icone/close-icon.png"></a></li>
+                <li><a href="#footer">Info & contact</a></li> <!--footer-->
+                <!--login form-->
+                <li class="side-accedi"><a>Login</a></li>
+                <li class="side-registrati"><a>Registrati</a></li>
+                <li class="side-logout"><a>LogOut</a></li>
+            </ul>
+            <ul>
+                <li class="icona"><a href="#"><img src="../data/immagini/grandi/logoGrande.png"></a></li>
+                <p id="benvenuto">Benvenuto</p>
+                <li class="hide"><a href="#footer">Info & contact</a></li>
+                <!--login form-->
+                <li class="hide accedi"><a> <img src="../data/immagini/icone/login-icon.png">Login</a></li>
+                <li class="hide registrati"><a><img src="../data/immagini/icone/register-icon.png">Registrati</a></li>
+                <li class="areaPersonale"><a><img src="../data/immagini/icone/login-icon.png">Area personale</a></li>
+                <li class="hide logout"><a><img src="../data/immagini/icone/logout.png">Log out</a></li>
+                <li class="menu"><a href="#"><img src="../data/immagini/icone/menu-icon.png"></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="slider">
+
+        <div class="slides">
+
+            <div class="slide"><img
+                    src="https://www.thespacecinema.it/-/media/tsc/carousel/2024/concorso/oceania-2/hero_concorso-disney_oceania_desktop.jpg"
+                    alt="Image 1"></div>
+            <div class="slide"><img
+                    src="https://www.thespacecinema.it/-/media/tsc/carousel/2024/movie-talk/kraven/hero_movie-talk_kravenversioneoriginale_desktop.jpg"
+                    alt="Image 2"></div>
+            <div class="slide"><img
+                    src="https://www.thespacecinema.it/-/media/tsc/carousel/2024/anteprime/criature/hero_anteprima-criature_desktop.jpg"
+                    alt="Image 3"></div>
+
+        </div>
+
+        <button class="prev" id="bottoni">❮</button>
+
+        <button class="next" id="bottoni">❯</button>
+
+    </div>
+
+    <div id="ricerca">
+
+        <input type="text" id="cercaFilm" placeholder="Cerca un film per il titolo" autocomplete="off" />
+
+        <div class="selects">
+
+            <label for="films" id="films">Ti interessa un genere in particolare?</label>
+
+            <select name="films">
+
+                <option value="">Tutti i film</option>
+                <option value="Azione">Azione</option>
+                <option value="Drammatico">Drammatico</option>
+                <option value="Thriller">Thriller</option>
+                <option value="Fantascienza">Fantascienza</option>
+                <option value="Romantico">Romantico</option>
+                <option value="Fantasy">Fantasy</option>
+                <option value="Commedia">Commedia</option>
+                <option value="Animazione">Animazione</option>
+                <option value="Western">Western</option>
+
+            </select>
+
+            <label for="ratingSelect">Filtra per Rating:</label>
+
+            <select id="ratingSelect" name="ratingSelect">
+
+                <option value="">Tutti i film</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+
+            </select>
+        </div>
+
+
+        <div id="containerCard"></div>
+
+    </div>
+
+
+
+    <section>
+        <div class="containerCard">
+        </div>
+    </section>
+
+    <section class="selezioneRapida">
+        <div class="containerSelect">
+            <select id="selectFilm">
+            </select>
+        </div>
+        <div class="containerSelect">
+            <select id="selectData">
+            </select>
+        </div>
+        <div class="containerSelect">
+            <select id="selectOra">
+            </select>
+        </div>
+        <button class="bottoneInvia">Invia</button>
+    </section>
+
+    <section> <!--FORM-->
+        <form id="loginForm" class="centerLoginForm">
+            <img class="arrow" src="../data/immagini/icone/arrow-icon.png">
+            <br>
+            <label for="email">Email:</label>
+            <input class="emailInput" type="email" id="email" name="email" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Login</button>
+        </form>
+    </section>
+
+    <section>
+        <form id="registerForm" class="centerRegisterForm">
+            <img class="arrow" src="../data/immagini/icone/arrow-icon.png">
+            <br>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required>
+
+            <label for="congome">Cognome:</label>
+            <input type="text" id="cognome" name="cognome" required>
+
+            <label for="emailRegistrazione">Email:</label>
+            <input type="email" id="emailRegistrazione" name="email" required>
+
+            <label for="telefono">Numero telefono:</label>
+            <input type="tel" id="telefono" name="telefono" required>
+
+            <label for="passwordRegistrazione">Password</label>
+            <input type="password" id="passwordRegistrazione" name="passwordRegistrazione" required>
+
+            <button type="submit">Registrati</button>
+        </form>
+    </section>
+
+    <!-----POPUP INFO MOVIE----->
+    <div id="moviePopup">
+        <div id="movieImage">
+            <!--immagine film-->
+        </div>
+
+        <div id="movieInfo">
+            <img src="">
+            <label for="titolo">Titolo:</label>
+            <input type="text" id="titolo">
+
+            <label for="genere">Genere:</label>
+            <input type="text" id="genere">
+
+            <label for="data-uscita">Data di uscita:</label>
+            <input type="text" id="data-uscita">
+
+            <label for="descrizione">Descrizione:</label>
+            <textarea type="text" id="descrizione"></textarea>
+            
+        </div>
+    </div>
+
+    <footer id="footer">
+
+        <div id="info">
+
+            <ul>
+
+                <li>
+                    <h3>Contatti</h3>
+                    <ul>
+                        <li>FAQ e Contattaci</li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>La nostra regia</h3>
+                    <ul>
+                        <li>Chi siamo</li>
+                        <li>PNRR</li>
+                        <li>Lavora con noi</li>
+                        <li>I nostri cinema</li>
+                    </ul>
+                </li>
+
+                <li id="note">
+                    <h3>Note Legali</h3>
+                    <ul>
+                        <li>Privacy policy</li>
+                        <li>Cookie policy</li>
+                        <li>Condizioni di utilizzo</li>
+                        <li>Regolamenti</li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>Social</h3>
+                    <ul id="no_sotto">
+                        <li><a href="#"><img src="../data/immagini/icone/facebook.png">Facebook</a></li>
+                        <li><a href="#"><img src="../data/immagini/icone/youtube.png">Youtube</a></li>
+                        <li><a href="#"><img src="../data/immagini/icone/twitter.png">Twitter</a></li>
+                        <li><a href="#"><img src="../data/immagini/icone/instagram.png">Instagram</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>La Nostra App</h3>
+                    <ul>
+                        <li>Scopri di più</li>
+                    </ul>
+                </li>
+
+            </ul>
+
+
+        </div>
+
+    </footer>
+
+
+</body>
+
+</html>
