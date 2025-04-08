@@ -1,1 +1,2 @@
-Splitted in groups of 3, we tried to compete against 3 other teams on creating a functional webstite for a cinema with a booking system. After 24 hours of work, me and my group won the challenge, bringing home a 50€ Amazon gift card!
+Splitted in groups of 3, we tried to compete against 3 other teams on creating a functional webstite for a cinema with a booking system. After 24 hours of work, me and my group won the challenge, bringing home a 50€ Amazon gift card! 
+This whole code is not completely mine. It also belongs to my other 3 teammates. I covered most of the CSS part by adding a slider and by fixing the movies display section.
