@@ -1,0 +1,1 @@
+Splitted in groups of 3, we tried to compete against 3 other teams on creating a functional webstite for a cinema with a booking system. After 24 hours of work, me and my group won the challenge, bringing home a 50€ Amazon gift card!
